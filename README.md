@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Giuseppe Cusati!  
 
-👨‍💻 **Full-Stack Developer** & **CTO** at [GeniAi Srl](https://geniai.it)  
+👨‍💻 **Full-Stack Developer** at [giuseppecusati.it](http://giuseppecusati.it)  
+👨‍💻 **CTO** at [GeniAi Srl](https://geniai.it)  
 🌐 Explore my work at [giuseppecusati.it](http://giuseppecusati.it)  
 
 ---
 
 ## 🔍 About Me  
-I'm a technology and innovation enthusiast with extensive experience in software development, web design, and AI-based solution integration. For years, I have been helping companies and startups turn ideas into scalable and efficient solutions.  
+I'm a technology and innovation enthusiast with extensive experience in software development, web design, and AI-based solution integration. For years, I have been working side by side with companies to turn ideas into scalable and efficient solutions.  
 
 Currently, I'm the CTO of [GeniAi Srl](https://geniai.it), where we focus on enhancing business efficiency through AI-driven solutions.  
 

@@ -51,7 +51,7 @@ An advanced software solution for monitoring network devices and services, featu
 - Integration with RTSP streams and image management  
 - Advanced cybersecurity analysis  
 
-Learn more at [GeniAi](https://geniai.it).  
+Learn more at [Giuseppecusati](https://giuseppecusati.it).  
 
 ---
 
